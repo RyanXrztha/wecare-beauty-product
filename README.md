@@ -24,8 +24,5 @@ For optimal results, incorporate into your daily skincare routine.
 ## Contributing
 We value your feedback! Open an issue or submit a pull request for suggestions, improvements, or new product ideas.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For questions or support, email us at support@wecarebeauty.com or visit [our website](https://wecarebeauty.com).
+For questions or support, email me at aryanshrestha189@gmail.com.
